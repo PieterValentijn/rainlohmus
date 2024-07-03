@@ -10,8 +10,10 @@ Inspired by this story, I decided to create a program that attempts to generate 
 
 This story has spread all over the internet. He has publicly stated that he is willing to share 50% of the unlocked Ethereum with the person who helps him recover his keys1.
 
-If you’re interested, you can give it a try. There’s a tool called FindETH23 that you can use. You can download the source code from GitHub3, compile the program yourself, and start your quest to find the lost keys. Good luck!
-
 #Compile info
 To compile you need to use Delphi 11 + 
 and you can use the installlibs.bat to download the needed lib source.
+
+#Precompiled 
+I have released a precompiled that you can use if you cannot compile the source.
+https://osfinancials.org/download/rainlohmus.zip
