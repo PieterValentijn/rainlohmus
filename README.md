@@ -1,2 +1,17 @@
 # rainlohmus
-Trying to find Rain  Lohmus his keys
+Trying to find Rain Lohmus his keys
+
+
+This is one of those stories from this era that captures the essence of the cryptocurrency world. It’s about an individual who was an early investor in cryptocurrencies, specifically Ethereum1. Unfortunately, he lost his keys.
+
+This story is intriguing because finding these keys is extremely challenging. It’s not impossible, but it’s very, very rare.
+
+Inspired by this story, I decided to create a program that attempts to generate random keys and check if they match his public key. If a match is found, the 250,000 ETH locked in his account will be unlocked1.
+
+This story has spread all over the internet. He has publicly stated that he is willing to share 50% of the unlocked Ethereum with the person who helps him recover his keys1.
+
+If you’re interested, you can give it a try. There’s a tool called FindETH23 that you can use. You can download the source code from GitHub3, compile the program yourself, and start your quest to find the lost keys. Good luck!
+
+#Compile info
+To compile you need to use Delphi 11 + 
+and you can use the installlibs.bat to download the needed lib source.
